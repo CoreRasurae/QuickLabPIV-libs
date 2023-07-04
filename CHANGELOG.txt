@@ -1,0 +1,5 @@
+CHANGELOG
+ 
+- 0.1.0 
+  - Mainly composed of free source code snippets from internet forums
+  - Contains basic helper utility methods for Swing UI components
